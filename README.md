@@ -14,6 +14,7 @@ Hands-on Training participants are encouraged to fork this repo and practice mak
 - Repo (created using the GitHub web interface, or using the Git CLI with `git init`): Short for "code repository," a repo is a set of files under version control.
 
 - Fork (typically created using the GitHub web interface only): 
+- I understand the forking now.
 
 - Local Clone (typically created using the Git CLI with `git clone` only): 
 

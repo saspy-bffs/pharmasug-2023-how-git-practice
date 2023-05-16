@@ -6,8 +6,8 @@
 
 Hands-on Training participants are encouraged to fork this repo and practice making Pull Requests (aka PRs), either during or after the conference. All types of contributions are welcome, from fixing typos to adding notes to each of the sections below.
 
-I am so excited!!!!!!!!!!!
 
+####### Random comment
 
 
 #### Concepts related to Managing Code Repositories (feel free to help add definitions or examples!)
@@ -60,4 +60,4 @@ I am so excited!!!!!!!!!!!
 
 - Get used to Git!
 
-- [your suggestions here]
+- Git some love!

@@ -59,4 +59,4 @@ Hands-on Training participants are encouraged to fork this repo and practice mak
 
 - Get used to Git!
 
-- [your suggestions here]
+- Git some love!

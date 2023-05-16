@@ -40,6 +40,7 @@ Hands-on Training participants are encouraged to fork this repo and practice mak
 - `git config`:
 
 - `git status`:
+- `git --version`:
 
 
 #### Additional Git CLI Commands to Consider Learning (feel free to help add definitions or examples!)
